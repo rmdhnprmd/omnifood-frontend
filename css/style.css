@@ -74,7 +74,7 @@
 
 .hero-description {
   font-size: 2rem;
-  line-height: 1.5;
+  line-height: 1.6;
   margin-bottom: 4.8rem;
 }
 
@@ -128,6 +128,17 @@
   margin-bottom: 1.2rem;
 }
 
+.step-description {
+  font-size: 1.8rem;
+  line-height: 1.8;
+}
+
+.step-img-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .step-img {
-  width: 50%;
+  width: 35%;
 }
